@@ -1,0 +1,116 @@
+body{
+    margin:0;
+    text-align: center ;
+    font-family: 'Handlee', cursive;
+    background-color: #FAF6ED;
+
+}
+
+h1{
+    margin-top: 0px;
+    font-family: 'Handlee', cursive;
+    font-size: 5.40em;
+    padding-top: 50px;
+    margin: 50px auto 0 auto;
+    color: #9E7777;
+    
+    /* width: 100px;
+    margin: 0 auto 0 auto; */
+}
+h2{
+    font-family: 'Dongle', sans-serif;
+    font-size: 2.5rem;
+    color: #DF711B;
+    font-weight: bolder;
+    text-align: center;
+    
+}
+h3{
+    color: #9E7777;
+    font-weight: bolder;
+
+}
+hr{
+    border-style: dotted none none;
+    /* border-right-style: none;
+    border-left-style: none;
+    border-bottom-style: none; */
+   
+    border-color: brown;
+    border-width: 5px;
+    height: 3px;
+    width: 15%;
+    padding-top: 30px;
+}
+p{
+    font-family: 'Public Sans', sans-serif;
+    font-weight: bold;
+    color: black;
+    line-height: 2;
+    margin: 0;
+}
+a{
+    color: red;
+    margin: 10px 20px;
+    text-decoration: none;
+    
+    /* font-size: 1rem; */
+}
+a:hover{
+    color: white;
+}
+.my-img{
+    height: 200px;
+}
+.top{
+    /* background-color: #F2F5C8; */
+    position: relative;
+    padding-top: 100px;
+}
+.cloud-bottom{
+    position: absolute;
+    left:200px;
+    top:300px;
+}
+.cloud-top{
+    position: absolute;
+    right:300px;
+    top:100px;
+}
+.copyright{
+    font-size: 0.75rem;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+.sun{
+    position: absolute;
+    height: 120px;
+    left: 360px; 
+    top:30px;
+}
+.dance-img{
+    height: 200px;
+    float: right;
+    margin-bottom: 30px;
+}
+.sd-img{
+    height: 200px;
+    float: left;
+    margin-right: 20px;
+}
+.footer-link{
+    color:#9E7777 ;
+}
+.bottom{
+    background-color: #F1CA89;
+    margin: 0;
+    /* padding: 30px; */ 
+}
+.profile{
+    text-align: center;
+    width: 50%;
+    margin: auto;
+}
